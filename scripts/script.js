@@ -10,26 +10,26 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Síntese vívida",
-          artist: "Norm Ender",
-          cover: "https://img.wallpapic.com/i982-017-91/medium/nature-fantasy-reflection-moon-wallpaper.jpg",
-          source: "mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=IRH_UypUACE",
+          name: "Amor Puro",
+          artist: "Djavan",
+          cover: "https://i1.sndcdn.com/artworks-pmQsqV4i7teeVmvn-ev0DfA-t500x500.jpg",
+          source: "https://github.com/VictorSilvaVS/Colic/raw/main/mp3/1.mp3",
+          url: "https://music.youtube.com/watch?v=Af7ieNv0wXY&feature=share",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          name: "5:32 PM",
+          artist: "The deli",
+          cover: "./img/3.jpg",
+          source: "https://github.com/VictorSilvaVS/Colic/raw/main/mp3/2.mp3",
+          url: "https://music.youtube.com/watch?v=-AdptiRTx6o&feature=share",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
+          name: "Can't Love Myself",
+          artist: "Monty Datta",
+          cover: "./img/2.jpg",
+          source: "https://github.com/VictorSilvaVS/Colic/raw/main/mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
